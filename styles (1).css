@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color:#ffffff/* Warna coklat muda, kamu bisa ganti dengan kode warna lain */
+    color: #000000; /* Warna teks */
+}
+
+/* Sesuaikan warna untuk elemen lainnya sesuai selera */
+header {
+    background-color: #8B4513; /* Coklat tua */
+    color: white;
+}
+
+footer {
+    background-color: #D2B48C; /* Coklat muda */
+    color: #333;
+}
